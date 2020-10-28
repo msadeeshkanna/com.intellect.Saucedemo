@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18529" started-at="2020-10-28T08:25:43 IST" finished-at="2020-10-28T08:26:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18529" started-at="2020-10-28T08:25:43 IST" finished-at="2020-10-28T08:26:02 IST">
+      <class name="SauceDemo.TestScript.Loginpage">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:SauceDemo.TestScript.Loginpage@5a1c0542]" name="Setup" is-config="true" duration-ms="8489" started-at="2020-10-28T08:25:43 IST" finished-at="2020-10-28T08:25:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Validlogin(java.lang.String, java.lang.String)[pri:0, instance:SauceDemo.TestScript.Loginpage@5a1c0542]" name="Validlogin" duration-ms="8922" started-at="2020-10-28T08:25:53 IST" data-provider="c1" finished-at="2020-10-28T08:26:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validlogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:SauceDemo.TestScript.Loginpage@5a1c0542]" name="TearDown" is-config="true" duration-ms="48" started-at="2020-10-28T08:26:02 IST" finished-at="2020-10-28T08:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- SauceDemo.TestScript.Loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

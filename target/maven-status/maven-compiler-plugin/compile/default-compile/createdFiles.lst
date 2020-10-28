@@ -1,0 +1,4 @@
+SauceDemo\Utilities\SauceDemoUtil.class
+SauceDemo\TestBase\SauceTestBase.class
+SauceDemo\TestPages\SauceDemoLogin.class
+SauceDemo\Utilities\SauceDemoExcelReader.class
